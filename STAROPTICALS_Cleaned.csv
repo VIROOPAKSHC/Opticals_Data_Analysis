@@ -1,0 +1,120 @@
+Date,Day,Weekday,Weeknum,Brand,Type,Shape,Quantity,Price,Total_Price
+01-01-2023,1,1,1,Tomstar Frame,Fiber,Regular,1,1200,1200
+01-01-2023,1,1,1,Lens,Blue Cut,Regular,1,600,600
+01-01-2023,1,1,1,Tomstar Frame,Metal,Round,1,999,999
+01-01-2023,1,1,1,Lens,Blue Cut,Plano,1,600,600
+01-01-2023,1,1,1,Glasses,Reading,Regular,1,100,100
+01-01-2023,1,1,1,Goggles,Polarized,Regular,1,899,899
+02-01-2023,2,2,1,Regular Frame,Fiber,Regular,1,599,599
+02-01-2023,2,2,1,Lens,Regular,Sphere,1,400,400
+02-01-2023,2,2,1,Lens,Regular,Regular,1,400,400
+02-01-2023,2,2,1,Goggles,Regular,Regular,1,299,299
+03-01-2023,3,3,1,Goggles,Polarized,Regular,2,1400,2800
+03-01-2023,3,3,1,Glasses,Reading,Regular,1,100,100
+03-01-2023,3,3,1,Lens,Regular,Regular,1,100,100
+03-01-2023,3,3,1,Lens,Contact Lens,Regular,1,999,999
+04-01-2023,4,4,1,Salvador Frame,Regular,Regular,1,1200,1200
+04-01-2023,4,4,1,Regular Frame,Regular,Regular,1,599,599
+04-01-2023,4,4,1,Goggles,B2 Black,Regular,1,800,800
+04-01-2023,4,4,1,Lens,Photochromic,Regular,1,750,750
+04-01-2023,4,4,1,Renu Liquid,Regular,Regular,1,250,250
+04-01-2023,4,4,1,Goggles,Kids,Regular,1,400,400
+06-01-2023,6,6,1,Lens,Fiber,Regular,1,650,650
+06-01-2023,6,6,1,Tomstar Frame,Regular,Regular,1,900,900
+06-01-2023,6,6,1,Goggles,St.Marks ,Regular,1,1200,1200
+06-01-2023,6,6,1,Lens,Antiglare,Regular,1,560,560
+07-01-2023,7,7,1,Lens,Contact Lens,Sphere,1,1499,1499
+07-01-2023,7,7,1,Lens,Liquid Contact Lens,Regular,1,500,500
+07-01-2023,7,7,1,Regular Frame,Metal,Regular,1,499,499
+08-01-2023,8,1,2,Odissey Frame,Regular,Regular,1,850,850
+08-01-2023,8,1,2,Tomstar Frame,Regular,Regular,1,900,900
+09-01-2023,9,2,2,Lens,Photogray,Regular,1,500,500
+08-01-2023,8,1,2,Regular Frame,Metal,Rimless,1,650,650
+08-01-2023,8,1,2,Goggles,Regular,Regular,1,399,399
+08-01-2023,8,1,2,Tomstar Frame,Full,Regular,1,799,799
+08-01-2023,8,1,2,Glasses,Reading,Regular,1,100,100
+09-01-2023,9,2,2,Goggles,St.Marks,Regular,1,1200,1200
+09-01-2023,9,2,2,Regular Frame,Metal,Regular,1,450,450
+09-01-2023,9,2,2,Glasses,Reading,Regular,1,190,190
+09-01-2023,9,2,2,Tomstar Frame,Regular,Rimless,1,1200,1200
+09-01-2023,9,2,2,Regular Frame,Regular,Round,1,560,560
+10-01-2023,10,3,2,Salvador Frame,Regular,Regular,1,900,900
+10-01-2023,10,3,2,Lens,Photogray,Regular,1,600,600
+10-01-2023,10,3,2,Regular Frame,Regular,Rimless,1,900,900
+10-01-2023,10,3,2,Regular Frame,Fiber,Regular,1,700,700
+10-01-2023,10,3,2,Glasses,Sp2,Regular,1,560,560
+10-01-2023,10,3,2,Lens,Regular,Plano,1,560,560
+10-01-2023,10,3,2,Tomstar Frame,Regular,Regular,1,1200,1200
+10-01-2023,10,3,2,Lens,Blue Cut,Regular,1,650,650
+10-01-2023,10,3,2,Glasses,Reading,Regular,1,100,100
+11-01-2023,11,4,2,Regular Frame,Fiber,Small,1,800,800
+11-01-2023,11,4,2,Glasses,Reading,Regular,3,300,900
+11-01-2023,11,4,2,Regular Frame,Regular,Regular,1,700,700
+11-01-2023,11,4,2,Odissey Frame,Regular,Regular,1,560,560
+13-01-2023,13,6,2,Glasses,Polycarbonate,Regular,1,1250,1250
+13-01-2023,13,6,2,Regular Frame,Regular,Rimless,1,650,650
+13-01-2023,13,6,2,Glasses,Sp2,Regular,1,560,560
+14-01-2023,14,7,2,Regular Frame,Fiber,Regular,1,560,560
+14-01-2023,14,7,2,Lens,Contact Lens,Regular,1,2000,2000
+14-01-2023,14,7,2,Glasses,B2,Regular,1,1000,1000
+14-01-2023,14,7,2,Tomstar Frame,Regular,Regular,1,1299,1299
+14-01-2023,14,7,2,Glasses,Reading,Regular,1,100,100
+15-01-2023,15,1,3,Lens,Contact Lens,Regular,1,200,200
+15-01-2023,15,1,3,Renu Liquid,Regular,Regular,0.5,500,250
+16-01-2023,16,2,3,Glasses,Sp2,Regular,1,560,560
+16-01-2023,16,2,3,Goggles,Regular,Regular,1,560,560
+16-01-2023,16,2,3,Glasses,Photochromic,Regular,1,950,950
+16-01-2023,16,2,3,Goggles,St.Marks,Regular,1,1400,1400
+17-01-2023,17,3,3,Tomstar Frame,Regular,Regular,1,799,799
+17-01-2023,17,3,3,Lens,Photogray,Plano,1,700,700
+17-01-2023,17,3,3,Goggles,Regular,Regular,1,360,360
+17-01-2023,17,3,3,Glasses,Sp2,Regular,1,560,560
+17-01-2023,17,3,3,Regular Frame,Regular,Regular,1,600,600
+17-01-2023,17,3,3,Lens,Regular,Plano,1,300,300
+18-01-2023,18,4,3,Odissey Frame,Regular,Rimless,1,900,900
+18-01-2023,18,4,3,Glasses,Reading,Regular,1,150,150
+18-01-2023,18,4,3,Glasses,B2,Regular,1,1000,1000
+18-01-2023,18,4,3,Lens,Contact Lens,Regular,1,2000,2000
+18-01-2023,18,4,3,Tomstar Frame,Regular,Regular,1,1299,1299
+18-01-2023,18,4,3,Glasses,Reading,Regular,1,100,100
+19-01-2023,19,5,3,Regular Frame,Regular,Rimless,1,900,900
+19-01-2023,19,5,3,Glasses,Reading,Regular,1,500,500
+21-01-2023,21,7,3,Regular Frame,Regular,Regular,1,850,850
+21-01-2023,21,7,3,Lens,Blue Cut,Regular,1,650,650
+21-01-2023,21,7,3,Glasses,Reading,Regular,1,100,100
+21-01-2023,21,7,3,Lens,Contact Lens,Regular,1,2000,2000
+21-01-2023,21,7,3,Tomstar Frame,Fiber,Regular,1,1999,1999
+21-01-2023,21,7,3,Goggles,Regular,Regular,2,720,1440
+21-01-2023,21,7,3,Glasses,Reading,Regular,2,200,400
+21-01-2023,21,7,3,Glasses,Blue Cut Single Vision,Regular,1,760,760
+22-01-2023,22,1,4,Goggles,Women,Regular,1,560,560
+22-01-2023,22,1,4,Glasses,Sp2,Regular,1,650,650
+22-01-2023,22,1,4,Tomstar Frame,Fiber,Regular,1,1299,1299
+23-01-2023,23,2,4,Regular Frame,Fiber,Regular,1,560,560
+23-01-2023,23,2,4,Glasses,Photochromic,Regular,1,750,750
+24-01-2023,24,3,4,Goggles,St.Marks,Regular,1,1299,1299
+24-01-2023,24,3,4,Glasses,Sp2,Regular,1,1000,1000
+24-01-2023,24,3,4,Regular Frame,Regular,Regular,1,560,560
+24-01-2023,24,3,4,Glasses,Photochromic,Regular,1,900,900
+24-01-2023,24,3,4,Lens,Contact Lens,Regular,1,1499,1499
+24-01-2023,24,3,4,Glasses,Reading,Regular,1,100,100
+24-01-2023,24,3,4,Regular Frame,Supra,Regular,1,1200,1200
+24-01-2023,24,3,4,Glasses,Reading,Regular,1,360,360
+25-01-2023,25,4,4,Regular Frame,Regular,Round,1,560,560
+25-01-2023,25,4,4,Glasses,Photochromic,Regular,1,850,850
+25-01-2023,25,4,4,Regular Frame,Regular,Rimless,1,999,999
+26-01-2023,26,5,4,Lens,Contact Lens,Regular,1,1999,1999
+26-01-2023,26,5,4,Renu Liquid,Regular,Regular,1,499,499
+27-01-2023,27,6,4,Lens,Contact Lens,Regular,1,2000,2000
+27-01-2023,27,6,4,Glasses,Reading,Regular,1,100,100
+27-01-2023,27,6,4,Tomstar Frame,Regular,Regular,1,1299,1299
+28-01-2023,28,7,4,Glasses,Fiber,Regular,1,700,700
+27-01-2023,27,6,4,Lens,Photochromic,Regular,1,900,900
+27-01-2023,27,6,4,Regular Frame,Regular,Regular,1,650,650
+27-01-2023,27,6,4,Goggles,Regular,Regular,1,300,300
+29-01-2023,29,1,5,Lens,Fiber Photogray,Regular,1,1099,1099
+29-01-2023,29,1,5,Regular Frame,Regular,Rimless,1,900,900
+29-01-2023,29,1,5,Lens,Contact Lens,Regular,1,2000,2000
+29-01-2023,29,1,5,Glasses,Reading,Regular,1,150,150
+30-01-2023,30,2,5,Glasses,Sp2 Fiber,Regular,1,620,620
+30-01-2023,30,2,5,Tomstar Frame,Regular,Regular,1,1299,1299
